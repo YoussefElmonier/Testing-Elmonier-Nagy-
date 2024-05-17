@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.5",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^13.9.0"
+  },
+  "name": "testing-finalll",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
